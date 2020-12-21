@@ -1,0 +1,9 @@
+html {
+    font: Oswald;
+}
+
+
+.title-image {
+    background-image: url(blackandwhite.jpg);
+    background-size: cover;
+}
