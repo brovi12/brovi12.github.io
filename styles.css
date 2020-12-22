@@ -1,9 +1,15 @@
 html {
     font: Oswald;
+    text-align: center;
 }
 
 
 .title-image {
     background-image: url(blackandwhite.jpg);
     background-size: cover;
+}
+
+
+body {
+    background-color:gray;
 }
